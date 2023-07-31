@@ -1,0 +1,26 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins-light" , Arial, Helvetica, sans-serif;
+    background-color: #eff5f5;
+    color: #181823; 
+
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    color: var(--secondary-color-dark);
+    transition: all 0.3;
+}
+
